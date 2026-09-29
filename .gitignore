@@ -1,0 +1,7 @@
+/corpus
+*.csv
+/agenda
+/teste
+/venv
+duvidas.md
+README_insumos.md
